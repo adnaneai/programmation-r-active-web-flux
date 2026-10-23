@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: web-flux-reactive
+  mongodb:
+    host: localhost
+    port: 27017
+    database: bourse_db
+  data:
+    mongodb:
+      auto-index-creation: true
