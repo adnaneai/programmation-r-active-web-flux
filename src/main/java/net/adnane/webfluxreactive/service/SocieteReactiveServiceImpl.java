@@ -1,7 +1,6 @@
 package net.adnane.webfluxreactive.service;
 
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import net.adnane.webfluxreactive.dao.SocieteRepository;
 import net.adnane.webfluxreactive.entities.Societe;
 import org.springframework.stereotype.Service;
